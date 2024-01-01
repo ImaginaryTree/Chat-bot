@@ -22,9 +22,6 @@ def bag_of_words(tokenized_sentences, all_words):
     return bag
 
 
-
-
-
 #! Testing
 
 # text = "My name is Fadhlan, How about you?"
