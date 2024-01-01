@@ -1,6 +1,7 @@
 import json
 from nltk_utils import tokenize, stem, bag_of_words
 import numpy as np
+
 from model import CBModel
 
 with open('intents.json', 'r') as f:
